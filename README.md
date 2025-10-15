@@ -1,5 +1,4 @@
 # realestateNodeJS-platform
-# realestateNodeJS-platform
 
 Overview:
 RealEstate Backend project using Node.js (Fastify), Prisma (MySQL), and MongoDB Atlas.
@@ -122,6 +121,9 @@ README.txt
 - LinkedIn Profile: https://www.linkedin.com/in/your-profile
 - Self-Rating: 8/10
 - Postman Collection: included in repo
+  
+------------------------------------------------------------
+11. Postman Collection: [Download Collection](https://raw.githubusercontent.com/dania99-b/realestateNodeJS-platform/refs/heads/main/Real_state.postman_collection.json)
 
 ------------------------------------------------------------
 End of README
