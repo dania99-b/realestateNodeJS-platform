@@ -123,7 +123,7 @@ README.txt
 - Postman Collection: included in repo
   
 ------------------------------------------------------------
-11. Postman Collection: [👉 Download Postman Collection](https://github.com/dania99-b/realestateNodeJS-platform/raw/main/Real_state.postman_collection.json)
+11. Postman Collection: [👉 Download Postman Collection](https://github.com/dania99-b/realestateNodeJS-platform/blob/main/Real_state.postman_collection.json)
 
 
 ------------------------------------------------------------
