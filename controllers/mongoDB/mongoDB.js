@@ -24,7 +24,7 @@ class StatsController {
               $filter: {
                 input: "$listings",
                 as: "l",
-                cond: { $gt: ["$$l.price", 1] } 
+                cond: { $gt: ["$$l.price", 300000] } 
               }
             }
           }
