@@ -12,11 +12,11 @@ Table of Contents:
 4. Environment Variables
 5. Installing Dependencies & Migrations
 6. Running the Project
-7. API Endpoints
-8. Design Decisions
-9. Future Improvements
-10. Project Structure
-11. Submission Details
+7. Design Decisions
+8. Future Improvements
+9. Project Structure
+10. Submission Details
+11. Postman Collection:
 ------------------------------------------------------------
 
 1. Prerequisites:
