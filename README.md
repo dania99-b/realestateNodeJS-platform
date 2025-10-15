@@ -118,7 +118,7 @@ README.txt
 ------------------------------------------------------------
 10. Submission Details:
 
-- LinkedIn Profile: https://www.linkedin.com/in/your-profile
+- LinkedIn Profile: [👉 LinkedIn](https://www.linkedin.com/in/dania-taiba-04135a249)
 - Self-Rating: 8/10
 - Postman Collection: included in repo
   
