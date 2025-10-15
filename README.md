@@ -13,7 +13,7 @@ Table of Contents:
 5. Installing Dependencies & Migrations
 6. Running the Project
 7. Design Decisions
-8. Future Improvements
+8. If I had more than 4 hours
 9. Project Structure
 10. Submission Details
 11. Postman Collection:
@@ -88,7 +88,7 @@ php artisan serve
 - mysqlId in MongoDB links Agents & Listings
 
 ------------------------------------------------------------
-8. Future Improvements:
+8. If I had more than 4 hours, I would implement:
 
 1. JWT Authentication
 2. Unit & Integration Testing
@@ -100,20 +100,18 @@ php artisan serve
 ------------------------------------------------------------
 9. Project Structure:
 
-/node-api
   /src
   /prisma
   migrateToMongo.js
   package.json
   .env.example
+  /mini-laravel
+    app/
+    routes/
+    .env.example
 
-/laravel-api
-  app/
-  routes/
-  .env.example
-
-/postman_collection.json
-README.txt
+  /postman_collection.json
+  README.txt
 
 ------------------------------------------------------------
 10. Submission Details:
